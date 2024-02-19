@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fit+</string>
+    <string name="pop1">Kliky</string>
+    <string name="pop2">Sedy-lehy</string>
+    <string name="pop3">Dřepy</string>
+    <string name="pop4">Zdvih</string>
+    <string name="pop5">Běh</string>
+    <string name="saveB">Ulož cviky</string>
+</resources>

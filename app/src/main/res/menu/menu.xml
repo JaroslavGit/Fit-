@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.fitmodelapp.MainActivity">
+    <item
+        android:id="@+id/action_write"
+        android:orderInCategory="100"
+        android:title="abc"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_edit"
+        />
+    <item
+        android:id="@+id/action_calendar"
+        android:orderInCategory="100"
+        android:title="123"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        />
+    <item
+        android:id="@+id/action_statistic"
+        android:orderInCategory="100"
+        android:title="123"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_dialog_map"
+        />
+</menu>
